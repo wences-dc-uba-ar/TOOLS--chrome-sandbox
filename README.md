@@ -1,2 +1,5 @@
 # hello-chrome
-test de chrome plugin
+a chrome extension following
+
+https://developer.chrome.com/extensions/getstarted
+
